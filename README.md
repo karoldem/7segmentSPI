@@ -1,5 +1,5 @@
 # 7segmentSPI
-Easy 7 segment driver working on SPI. No matrix grid. Simply connect those to each other.
+Easy 7 segment driver working on SPI. If placed one next to another respective pins are placed next to one another.
 
 This project has never been made before, so make sure, that everything is OK.
 
